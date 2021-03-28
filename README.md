@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amrrobb
 - 👀 I’m interested in dancing, gaming, and photo editing
-- 🌱 I’m currently learning data scientist and coding
+- 🌱 I’m currently learning data science and coding course
 - 📫 How to reach me linkedin: Muhammad Ammar Robbani
 
 <!---
