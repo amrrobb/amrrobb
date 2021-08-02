@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @amrrobb
-- 👀 I’m interested in dancing, gaming, and photo editing
-- 🌱 I’m currently learning data science and coding course
-- 📫 How to reach me linkedin: Muhammad Ammar Robbani
+- 👀 I’m interested in dancing, gaming, and coding
+- 📫 How to reach me linkedin: linkedin.com/in/ammarrobbani
 
 <!---
 amrrobb/amrrobb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
