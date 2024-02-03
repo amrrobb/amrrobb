@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amrrobb
-- 👀 I’m interested in dancing, gaming, and coding
+- 👀 I’m interested in blockchain, gaming, and coding
 - 📫 How to reach me linkedin: linkedin.com/in/ammarrobbani
 
 <!---
