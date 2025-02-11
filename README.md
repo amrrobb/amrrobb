@@ -24,7 +24,7 @@ I'm a **Software Engineer** with a passion for **blockchain interoperability, de
 - Developed AI-powered features for image generation & analysis.  
 
 **Software Engineer – Feedloop**  
-- Led backend development for an analytics-driven customer experience platform (CXP).  
+- Handle backend development for an analytics-driven customer experience platform (CXP).  
 - Implemented customer event tracking, segmentation, and RFM modeling.  
 
 ---
