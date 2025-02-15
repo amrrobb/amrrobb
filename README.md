@@ -6,7 +6,7 @@ I'm a **Software Engineer** with a passion for **blockchain interoperability, de
 
 ### 🚀 Current Work
 - **[Crediflex](https://github.com/crediflex-defi)** – An undercollateralized lending protocol leveraging on-chain credit scoring. _(Finalist at Ethena Hackathon 2024)_  
-- **[Rekt AI](https://github.com/rekt-ai)** – An AI-driven prediction market where users compete against evolving AI models. _(ETHGlobal 2025)_  
+- **[Rekt AI](https://github.com/rekt-ai)** – An AI-driven prediction market where users compete against evolving AI models.
 - **[LiquidBook](https://github.com/liquid-book)** – A CLOB DEX using arbitrum stylus. 
 
 ---
