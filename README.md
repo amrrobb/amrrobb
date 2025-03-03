@@ -4,7 +4,8 @@ I'm a **Software Engineer** with a passion for **blockchain interoperability, de
 
 ---
 
-### 🚀 Current Work
+### 🚀 Recent Works
+- **[GTX - Great Trading Xperience](https://github.com/Great-Trading-eXperience)** – A permissionless CLOB DEX for spot trading on EVM, powered by Rise-Chain.  _(Submission for Mammothon Hackathon 2025)_
 - **[Crediflex](https://github.com/crediflex-defi)** – An undercollateralized lending protocol leveraging on-chain credit scoring. _(Finalist at Ethena Hackathon 2024)_  
 - **[Rekt AI](https://github.com/rekt-ai)** – An AI-driven prediction market where users compete against evolving AI models.
 - **[LiquidBook](https://github.com/liquid-book)** – A CLOB DEX using arbitrum stylus. 
