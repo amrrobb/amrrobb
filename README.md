@@ -5,7 +5,7 @@ I'm a **Software Engineer** with a passion for **blockchain interoperability, de
 ---
 
 ### 🚀 Recent Works
-- **[GTX - Great Trading Xperience](https://github.com/Great-Trading-eXperience)** – A permissionless CLOB DEX for spot trading on EVM, powered by Rise-Chain.  _(Submission for Mammothon Hackathon 2025)_
+- **[GTX - Great Trading Xperience](https://github.com/Great-Trading-eXperience)** – A permissionless CLOB DEX for spot trading on EVM, powered by Rise-Chain.  _(Submission for Mammothon Hackathon 2025 and Espresso Global Hackathon 2025)_
 - **[Crediflex](https://github.com/crediflex-defi)** – An undercollateralized lending protocol leveraging on-chain credit scoring. _(Finalist at Ethena Hackathon 2024)_  
 - **[Rekt AI](https://github.com/rekt-ai)** – An AI-driven prediction market where users compete against evolving AI models.
 - **[LiquidBook](https://github.com/liquid-book)** – A CLOB DEX using arbitrum stylus. 
@@ -13,9 +13,9 @@ I'm a **Software Engineer** with a passion for **blockchain interoperability, de
 ---
 
 ### 🏆 Achievements
+- **5th Place – Build & Brew Espresso Global Hackathon 2025** (GTX)  
 - **Winner & Finalist – Ethena Hackathon 2024** (Crediflex)  
-- **2nd Place – ETH SEA (Real World Assets Track)** (Kolektiva)  
-- **2nd Place – ICP Chain Fusion Hacker House (EVM Category)** (Satsouk)  
+- **2nd Place – ETH SEA (Lisk - Real World Assets Track) 2024** (Kolektiva)  
 
 ---
 
